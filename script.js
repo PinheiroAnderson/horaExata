@@ -26,19 +26,19 @@ function carregar() {
 
         if (agora.getHours() < 12) {
             
-            img.src = 'img/manha.png'
+            img.src = 'manha.png'
 
             document.body.style.background = '#81c9fa'
 
         } else if (agora.getHours() < 18) {
             
-            img.src = 'img/tarde.png'
+            img.src = 'tarde.png'
 
             document.body.style.background = '#dcd9d0'
 
         } else {
             
-            img.src = 'img/noite.png'
+            img.src = 'noite.png'
 
             document.body.style.background = '#000000'
 
