@@ -23,4 +23,4 @@ Este é um site simples que exibe a hora atual em tempo real e ajusta o tema da 
 - **JavaScript**: Lógica para atualizar a hora e mudar os temas conforme o período do dia.
 
 
-[Clique aqui](https://pinheiroanderson.github.io/horaExata/)
+[Clique aqui](https://pinheiroanderson.github.io/horaExata/) para testar.
